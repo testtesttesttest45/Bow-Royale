@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90ba2c7d53b045a40a8dcb9ee63d53ae, type: 3}
+  m_Name: NinjaAudioSO
+  m_EditorClassIdentifier: 
+  gruntClips:
+  - {fileID: 8300000, guid: 389a44c046c8cf64cb225d736ec7f60d, type: 3}
+  - {fileID: 8300000, guid: fd0ada9510408c44b89a696e6d8792c7, type: 3}
+  - {fileID: 8300000, guid: 07b6f36fba82d404ebdac3540ab0434e, type: 3}
+  deathClip: {fileID: 8300000, guid: ef1f1a7debeded842af6b0824eaec610, type: 3}
+  supershotGrunt: {fileID: 8300000, guid: 2c38bda34754ba543b4c26b45613a9bb, type: 3}
+  shieldDeflect: {fileID: 8300000, guid: 5990ecf5f38d77a4498d76b32a258d09, type: 3}

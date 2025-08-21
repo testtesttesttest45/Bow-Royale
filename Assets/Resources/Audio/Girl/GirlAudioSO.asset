@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90ba2c7d53b045a40a8dcb9ee63d53ae, type: 3}
+  m_Name: GirlAudioSO
+  m_EditorClassIdentifier: 
+  gruntClips:
+  - {fileID: 8300000, guid: 6ec1136af3bbea44cb6ca0caa7ca1abb, type: 3}
+  - {fileID: 8300000, guid: 9523b1424953ff04ebd265c68f4136f0, type: 3}
+  - {fileID: 8300000, guid: c11c278625b11a54c9f9383e39db7ac3, type: 3}
+  deathClip: {fileID: 8300000, guid: 807d43cecf78e2f4ba6b506b9c3d9959, type: 3}
+  supershotGrunt: {fileID: 8300000, guid: cfe179601e0595a4c81d28551cd0389b, type: 3}
+  shieldDeflect: {fileID: 8300000, guid: 15b85417842d8f54c92ced8fd24066d8, type: 3}

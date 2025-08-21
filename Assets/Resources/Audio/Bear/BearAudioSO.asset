@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90ba2c7d53b045a40a8dcb9ee63d53ae, type: 3}
+  m_Name: BearAudioSO
+  m_EditorClassIdentifier: 
+  gruntClips:
+  - {fileID: 8300000, guid: cdb4626547a995e40bbc8f268b88538c, type: 3}
+  - {fileID: 8300000, guid: 5723ddd051873f14da60b4962fd0bcc4, type: 3}
+  - {fileID: 8300000, guid: 67dfc6c4a19e2c041b5e51bbdc145dc4, type: 3}
+  deathClip: {fileID: 8300000, guid: ed766ae1133a1f34eb95c4545da3fb77, type: 3}
+  supershotGrunt: {fileID: 8300000, guid: 41a2713954fc6ac4e978ad6d16c61b87, type: 3}
+  shieldDeflect: {fileID: 8300000, guid: 1f39f2a2d76803443b25072610c6dba4, type: 3}
