@@ -1,4 +1,4 @@
-<h2>NOTE: THIS PAGE AND PROJECT IS STILL IN DEVELOPMENT AND ONLY ABOUT HALFWAY COMPLETE!</h2>
+<h2 style="color: red;">NOTE: THIS PAGE AND PROJECT IS STILL IN DEVELOPMENT AND ONLY ABOUT HALFWAY COMPLETE!</h2>
 
 <p align="center">
   <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Bow-Royale-Icon2-768x768.png" alt="logo" width="300"/>
