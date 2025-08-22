@@ -25,7 +25,7 @@ A game last 90 seconds. In the final 30 seconds, the game enters Sudden Death mo
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Character-Selection-Scene.png" alt="Character Selection Scene" width="400"/><br/>
+      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Reupload-Character-Selection-Scene.png" alt="Character Selection Scene" width="400"/><br/>
       <em>Character Select Scene</em>
     </td>
     <td align="center" width="50%">
@@ -39,13 +39,13 @@ A game last 90 seconds. In the final 30 seconds, the game enters Sudden Death mo
       <em>Game Scene</em>
     </td>
     <td align="center" width="50%">
-      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Game-Over.png" alt="Game Over" width="400"/><br/>
+      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Reupload-Game-Over.png" alt="Game Over" width="400"/><br/>
       <em>Game Over</em>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Play-2v2.png" alt="Play 2v2" width="400"/><br/>
+      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Reupload-Play-2v2.webp" alt="Play 2v2" width="400"/><br/>
       <em>Play 2v2</em>
     </td>
     <td align="center" width="50%">
