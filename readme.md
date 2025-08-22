@@ -22,38 +22,40 @@ A game last 90 seconds. In the final 30 seconds, the game enters Sudden Death mo
 
 ## Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Reupload-Character-Selection-Scene.png" alt="Character Selection Scene" width="400"/><br/>
-      <em>Character Select Scene</em>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Friendly-Tutorial.png" alt="Friendly Tutorial" width="400"/><br/>
-      <em>Friendly Tutorial</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Game-Scene.png" alt="Game Scene" width="400"/><br/>
-      <em>Game Scene</em>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Reupload-Game-Over.png" alt="Game Over" width="400"/><br/>
-      <em>Game Over</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Reupload-Play-2v2.webp" alt="Play 2v2" width="400"/><br/>
-      <em>Play 2v2</em>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/2v2-Game-Scene.png" alt="2v2 Game Scene" width="400"/><br/>
-      <em>2v2 Game Scene</em>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Reupload-Character-Selection-Scene.png" alt="Character Selection Scene" width="100%"/><br/>
+  <em>Character Select Scene</em>
+</div>
+<br/><br/>
+
+<div align="center">
+  <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Friendly-Tutorial.png" alt="Friendly Tutorial" width="100%"/><br/>
+  <em>Friendly Tutorial</em>
+</div>
+<br/><br/>
+
+<div align="center">
+  <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Game-Scene.png" alt="Game Scene" width="100%"/><br/>
+  <em>Game Scene</em>
+</div>
+<br/><br/>
+
+<div align="center">
+  <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Reupload-Game-Over.png" alt="Game Over" width="100%"/><br/>
+  <em>Game Over</em>
+</div>
+<br/><br/>
+
+<div align="center">
+  <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/Reupload-Play-2v2.webp" alt="Play 2v2" width="100%"/><br/>
+  <em>Play 2v2</em>
+</div>
+<br/><br/>
+
+<div align="center">
+  <img src="https://quek-wei-lin-website.in/wp-content/uploads/2025/08/2v2-Game-Scene.png" alt="2v2 Game Scene" width="100%"/><br/>
+  <em>2v2 Game Scene</em>
+</div>
 
 ---
 
